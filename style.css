@@ -1,0 +1,37 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body {
+    background-color: rgba(255, 0, 0, 0.5);
+}
+#ninja-logo {
+    width: 100%;
+    margin-bottom: 25px;
+}
+#ninja-container {
+    min-height: 150px;
+}
+#ninja-all-container {
+    width: 50%;
+    min-height: 500px;
+}
+.container {
+    text-align: center;
+}
+.partition {
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    width: 50%;
+}
+.ninja {
+    height: 150px;
+}
+#ninja-all {
+    width: 100%;
+}
+.btn {
+    margin-top: 15%;
+}
